@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Apple",
+      "calories": 52,
+      "vitamins": {
+        "A": 1,
+        "C": 8
+      },
+      "description": "Apples are a good source of fiber and vitamin C. They are low in calories and have various other vitamins and minerals.",
+      "color": "red"
+    },
+    {
+      "name": "Banana",
+      "calories": 89,
+      "vitamins": {
+        "B6": 20,
+        "C": 15
+      },
+      "description": "Bananas are rich in potassium and vitamin B6. They are a convenient and healthy snack option.",
+      "color": "yellow"
+    },
+    {
+      "name": "Orange",
+      "calories": 62,
+      "vitamins": {
+        "C": 116,
+        "A": 5
+      },
+      "description": "Oranges are high in vitamin C and a good source of fiber. They are known for their refreshing taste.",
+      "color": "orange"
+    }
+  ]
+  
